@@ -19,8 +19,7 @@ img{
 	border-radius:7px;
 	display: block;
 	margin: 0 auto;
-	max-width:30%;
-	max-height: 30%;
+	transform:scale(0.5);
 }
 a {
 	color:#ececec;

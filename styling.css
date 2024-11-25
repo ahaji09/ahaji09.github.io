@@ -1,0 +1,22 @@
+h1 {
+	font-size: 45px;
+	font-family:'Times New Roman', sans-serif;
+	color: #ececec;
+	text-align: center;
+}
+p {
+	font-size: 15px;
+	font-family: 'Times New Roman', sans-serif;
+	color: #ececec;
+	text-align: left;
+}
+
+html{
+	background-color: #385170;
+}
+
+img{
+	border-radius:7px;
+	display: block;
+	margin: 0 auto;
+}
